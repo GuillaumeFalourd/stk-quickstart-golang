@@ -1,0 +1,5 @@
+type: app
+description: Golang example application created with quickstart stack
+template: stk-quickstart-golang/hello-stacker-app
+plugins:
+  - plugin: stk-quickstart-golang/ask-stacker-name
