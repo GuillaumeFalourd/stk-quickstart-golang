@@ -1,5 +1,3 @@
-
-   
 name: hello-stacker-app
 description: Python example template to crate an app that prints a greeting message to the stacker
 types:
